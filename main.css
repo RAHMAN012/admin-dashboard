@@ -1,0 +1,35 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column;
+}
+.box-1{
+    display: flex;
+}
+.red{
+   background-color: red ;
+   height: 200px;
+   width: 500px;
+}
+.blue{
+    background-color: blue ;
+    height: 200px;
+    width: 300px;
+}
+.yellow{
+    background-color: yellow ;
+    height: 200px;
+    width: 300px;
+}
+.green{
+    background-color: green ;
+    height: 200px;
+    width: 200px;
+}
+.pink{
+    background-color: pink ;
+    height: 200px;
+    width: 300px;
+}
